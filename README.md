@@ -13,7 +13,7 @@ Features:
   The Page aimed to create in a Responsive way and I have acheived in making this Page Responsive.This Page is suitable to use in any kind of Devices.
 
 Internship Task :
-   This was the Task that I had worked on the Period of Internship assigned by the Company Octanet Services Pvt ltd  #Octanet Services Pvt ltd
+   This was the Task that I had worked on the Period of Internship assigned by the Company Octanet Services Pvt ltd( https://www.linkedin.com/company/octanetservices/)
 
 Contributions :
    I P.Animma Srinivasine (@Animmasri - https://github.com/Animmasri) had worked  over all in this project and created the Landing page.
