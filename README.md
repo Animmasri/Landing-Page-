@@ -16,4 +16,4 @@ Internship Task :
    This was the Task that I had worked on the Period of Internship assigned by the Company Octanet Services Pvt ltd  #Octanet Services Pvt ltd
 
 Contributions :
-   I P.Animma Srinivasine (@Animmasri) had worked  over all in this project and created the Landing page.
+   I P.Animma Srinivasine (@Animmasri - https://github.com/Animmasri) had worked  over all in this project and created the Landing page.
