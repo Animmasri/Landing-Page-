@@ -13,4 +13,4 @@ Features:
   The Page aimed to create in a Responsive way and I have acheived in making this Page Responsive.This Page is suitable to use in any kind of Devices.
 
 Contributions :
-   I P.Animma Srinivasine(Animmasri) had worked over this project on whole and created the full page.
+   I P.Animma Srinivasine (@Animmasri) had worked  over all in this project and created the Landing page.
